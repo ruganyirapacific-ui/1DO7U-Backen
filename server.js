@@ -14,7 +14,7 @@ const PORT = Number(process.env.PORT || 3000);
 const ROOT = __dirname;
 const PUBLIC = path.join(ROOT, 'public');
 
-const DATA_DIR = process.env.DATA_DIR || path.join(ROOT, 'data');
+const DATA_DIR = process.env.DATA_DIR || ROOT;
 const DB_FILE = path.join(DATA_DIR, 'db.json');
 
 const ADMIN_USER = process.env.ADMIN_USER || 'admin';
