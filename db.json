@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "id": "068aeb7300ee94f034eb",
+      "code": "DO7U-0B1B60",
+      "name": "Ruhumuriza Papy",
+      "pinSalt": "83b381f463f28fde85c2831220327a9c",
+      "pinHash": "d9157acee7927bd0a5595de8322db0a1e353f6d563babccd11ba87029ebc722372a8037ffc6642bf9c47900ebf83ed794126562fb3a9f778c9fa19462e373fa1",
+      "active": true,
+      "createdAt": "2026-11-10T14:57:03.332Z"
+    }
+  ],
+  "contributions": [
+    {
+      "id": "b31ab162f2c3dcdaff22",
+      "memberId": "068aeb7300ee94f034eb",
+      "memberName": "Ruhumuriza Papy",
+      "month": "2026-11",
+      "amount": 2000,
+      "note": "Vrai",
+      "paidAt": "2026-11-10T15:10:28.177Z",
+      "status": "paid"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "1bc9ddb9a31c7598998b",
+      "title": "KUHUSU KUMUONA OMBENI MWANA CHAMA MWENZETU",
+      "text": "Jamani mimi kama admin nilikuwa nataka kesho tumuone ombeni",
+      "type": "Information",
+      "published": true,
+      "createdAt": "2026-11-10T15:11:59.252Z"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "4fd55777a60856f18171",
+      "title": "KUHUSU UCHURUZI",
+      "date": "2026-11-10T17:15",
+      "place": "KWA OMBENI",
+      "agenda": "2026-11-10",
+      "minutes": "Tutaongeleya juhusu gisi tuta churuza vyashara vyetu",
+      "published": true,
+      "createdAt": "2026-11-10T15:20:03.983Z"
+    }
+  ],
+  "discussions": [
+    {
+      "id": "fcd8fc4f879d0110335a",
+      "memberId": "068aeb7300ee94f034eb",
+      "memberName": "Ruhumuriza Papy",
+      "text": "NILIKUWA NAONA KESHO TUMUONE OMBENI",
+      "createdAt": "2026-11-10T15:08:26.948Z"
+    },
+    {
+      "id": "191b20d235e886b7948c",
+      "memberId": "068aeb7300ee94f034eb",
+      "memberName": "Ruhumuriza Papy",
+      "text": "ndio tutaenda ako",
+      "createdAt": "2026-11-10T15:14:33.615Z"
+    }
+  ],
+  "reactions": [
+    {
+      "id": "ed2638a1dac7e2b0cb86",
+      "announcementId": "1bc9ddb9a31c7598998b",
+      "memberId": "068aeb7300ee94f034eb",
+      "createdAt": "2026-11-10T15:13:52.010Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "9a1759672bf033df3c91",
+      "announcementId": "1bc9ddb9a31c7598998b",
+      "memberId": "068aeb7300ee94f034eb",
+      "memberName": "Ruhumuriza Papy",
+      "text": "haina tatizo chef",
+      "createdAt": "2026-11-10T15:14:23.695Z"
+    }
+  ],
+  "attendance": []
+}
